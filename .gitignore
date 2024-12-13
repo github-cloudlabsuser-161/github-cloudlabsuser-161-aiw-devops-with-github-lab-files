@@ -339,3 +339,5 @@ Source/Services/Contoso.Traders.Cart.Api/.env
 /Source/.env
 _gvalues.dev.yaml
 
+
+creds
